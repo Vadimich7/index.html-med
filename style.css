@@ -1,0 +1,35 @@
+
+
+#header{
+  width: 100%;
+  height: 70px;
+  text-align: center;
+  border-bottom: 4px solid silver;
+  background:  #333;
+  color:  orange;
+  line-height: 70px
+}
+.d{
+  width: 100%;
+  height: 40px;
+   
+  border-bottom: 4px solid silver;
+  text-align: center;
+  color:  orange;
+}
+<head>
+select
+.img1 {
+float: left;
+}
+  {
+  height: 200px;
+  background-image:   "https://avatars.mds.yandex.net/i?id=b87956984be853bcc5f9b897b21ed53505449838-11525436-images-thumbs&n=13" ;
+  background-repeat: repeat;
+  color: #070707;
+}
+.img2 {
+float: right;
+}
+< /style >
+ </head>
